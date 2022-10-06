@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Support from "./components/Support.jsx";
 import About from "./components/About";
+import Subscription from "./components/Subscription";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Support />
       <AllinOne />
+      <Subscription />
     </>
   );
 }
