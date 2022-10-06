@@ -1,12 +1,12 @@
 import React from 'react'
 
-export const About = () => {
+const About = () => {
     return (
         <div className='w-full my-32'>
             <div className='max-w-[1240px] mx-auto'>
                 <div className='text-center'>
-                    <h2 className='text-5xl font-bold'>Trusted by Developers Across the World</h2>
-                    <p className='text-3xl py-6 text-gray-500'>Developers and Software Engineers have trusted our service since last 10 years. We provide the best cloud security along with consultacies on protection</p>
+                    <h2 className='text-5xl font-bold mt-4'>Trusted by Developers Across the World</h2>
+                    <p className='text-2xl py-6 text-gray-500'>Developers and Software Engineers have trusted our service since last 10 years. We provide the best cloud security along with consultacies on protection</p>
                 </div>
                 <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>
                     <div className='border py-8 rounded-xl shadow-xl'>
@@ -26,3 +26,5 @@ export const About = () => {
         </div>
     )
 }
+
+export default About
