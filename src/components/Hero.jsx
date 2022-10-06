@@ -20,7 +20,7 @@ const Hero = () => {
                     <img className='w-full mt-10' src={bgImg} alt="/" />
                 </div>
             </div>
-            <div className='absolute flex flex-col py-8 md:min-w-[760px] bottom-[-15%] mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-50
+            <div className='absolute flex flex-col py-8 mb-10 md:min-w-[760px] bottom-[-15%] mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-50
             border border-slate-300 rounded-xl text-center shadow-xl'>
                 <p>Data Services</p>
                 <div className='flex justify-between flex-wrap px-4'>
