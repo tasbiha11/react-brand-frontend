@@ -1,5 +1,7 @@
 import React from 'react'
+
 import supportImg from '../assets/support.jpg'
+
 const Support = () => {
     return (
         <div>

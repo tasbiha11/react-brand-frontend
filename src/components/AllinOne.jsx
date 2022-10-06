@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import { GrWaypoint } from 'react-icons/gr';
+
 
 const AllinOne = () => {
     return (
@@ -13,9 +15,7 @@ const AllinOne = () => {
 
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Notification</h3>
@@ -26,9 +26,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Information</h3>
@@ -39,9 +37,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Assistance</h3>
@@ -52,9 +48,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Support</h3>
@@ -65,9 +59,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Advertisement</h3>
@@ -78,9 +70,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Update</h3>
@@ -91,9 +81,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Installation</h3>
@@ -105,9 +93,7 @@ const AllinOne = () => {
                     </div>
                     <div className='flex'>
                         <div>
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 mr-4 text-green-600">
-                                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-                            </svg>
+                            <GrWaypoint className='w-7 mr-4 mt-2' />
                         </div>
                         <div>
                             <h3 className='font-bold text-lg'>Service</h3>

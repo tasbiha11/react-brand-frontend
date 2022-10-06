@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Support from "./components/Support.jsx";
 import About from "./components/About";
 import Subscription from "./components/Subscription";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Support />
       <AllinOne />
       <Subscription />
+      <Footer />
     </>
   );
 }
