@@ -1,3 +1,3 @@
-This is an landing page created using ReactJS and Tailwind CSS
+This is a landing page created using ReactJS and Tailwind CSS
 
 
